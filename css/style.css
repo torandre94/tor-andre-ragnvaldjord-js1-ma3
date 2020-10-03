@@ -1,0 +1,7 @@
+.result {
+    border: 5px solid #000;
+    background: white;
+    max-width: 300px;
+    margin: 5rem;
+    padding: 1rem;
+}
